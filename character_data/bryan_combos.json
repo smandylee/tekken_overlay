@@ -1,0 +1,39 @@
+{
+  "character": "Bryan",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 83
+      },
+      {
+        "name": "Easy 2",
+        "damage": 87
+      },
+      {
+        "name": "Medium 1",
+        "damage": 93
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 76
+      },
+      {
+        "name": "Easy 2",
+        "damage": 80
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 70
+      },
+      {
+        "name": "Medium 1",
+        "damage": 80
+      }
+    ]
+  }
+}

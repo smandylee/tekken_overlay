@@ -1,0 +1,39 @@
+{
+  "character": "Jack-8",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 86
+      },
+      {
+        "name": "Easy 2",
+        "damage": 90
+      },
+      {
+        "name": "Medium 1",
+        "damage": 96
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 79
+      },
+      {
+        "name": "Easy 2",
+        "damage": 83
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 74
+      },
+      {
+        "name": "Medium 1",
+        "damage": 84
+      }
+    ]
+  }
+}

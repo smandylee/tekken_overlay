@@ -1,0 +1,39 @@
+{
+  "character": "Jun",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 90
+      },
+      {
+        "name": "Easy 2",
+        "damage": 100
+      },
+      {
+        "name": "Medium 1",
+        "damage": 82
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 68
+      },
+      {
+        "name": "Easy 2",
+        "damage": 72
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 65
+      },
+      {
+        "name": "Medium 1",
+        "damage": 78
+      }
+    ]
+  }
+}

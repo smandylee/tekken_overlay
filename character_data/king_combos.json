@@ -1,0 +1,39 @@
+{
+  "character": "King",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 80
+      },
+      {
+        "name": "Easy 2",
+        "damage": 84
+      },
+      {
+        "name": "Medium 1",
+        "damage": 90
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 73
+      },
+      {
+        "name": "Easy 2",
+        "damage": 77
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 68
+      },
+      {
+        "name": "Medium 1",
+        "damage": 78
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "character": "Kazuya",
+  "starters": {
+    "초풍": [
+      {
+        "name": "Easy 1",
+        "damage": 85
+      },
+      {
+        "name": "Easy 2",
+        "damage": 92
+      },
+      {
+        "name": "Medium 1",
+        "damage": 98
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 78
+      },
+      {
+        "name": "Easy 2",
+        "damage": 82
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 75
+      },
+      {
+        "name": "Medium 1",
+        "damage": 88
+      }
+    ]
+  }
+}

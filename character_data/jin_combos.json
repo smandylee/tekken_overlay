@@ -1,0 +1,39 @@
+{
+  "character": "Jin",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 85
+      },
+      {
+        "name": "Easy 2",
+        "damage": 95
+      },
+      {
+        "name": "Medium 1",
+        "damage": 78
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 72
+      },
+      {
+        "name": "Easy 2",
+        "damage": 76
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 68
+      },
+      {
+        "name": "Medium 1",
+        "damage": 82
+      }
+    ]
+  }
+}

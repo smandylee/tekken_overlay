@@ -1,0 +1,39 @@
+{
+  "character": "Nina",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 81
+      },
+      {
+        "name": "Easy 2",
+        "damage": 85
+      },
+      {
+        "name": "Medium 1",
+        "damage": 91
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 73
+      },
+      {
+        "name": "Easy 2",
+        "damage": 77
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 67
+      },
+      {
+        "name": "Medium 1",
+        "damage": 77
+      }
+    ]
+  }
+}

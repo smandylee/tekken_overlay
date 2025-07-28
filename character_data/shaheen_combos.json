@@ -1,0 +1,39 @@
+{
+  "character": "Shaheen",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 79
+      },
+      {
+        "name": "Easy 2",
+        "damage": 83
+      },
+      {
+        "name": "Medium 1",
+        "damage": 89
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 72
+      },
+      {
+        "name": "Easy 2",
+        "damage": 76
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 66
+      },
+      {
+        "name": "Medium 1",
+        "damage": 76
+      }
+    ]
+  }
+}

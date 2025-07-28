@@ -1,0 +1,39 @@
+{
+  "character": "Feng",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 81
+      },
+      {
+        "name": "Easy 2",
+        "damage": 85
+      },
+      {
+        "name": "Medium 1",
+        "damage": 91
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 74
+      },
+      {
+        "name": "Easy 2",
+        "damage": 78
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 69
+      },
+      {
+        "name": "Medium 1",
+        "damage": 79
+      }
+    ]
+  }
+}

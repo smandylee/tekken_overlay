@@ -1,0 +1,39 @@
+{
+  "character": "Steve",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 76
+      },
+      {
+        "name": "Easy 2",
+        "damage": 80
+      },
+      {
+        "name": "Medium 1",
+        "damage": 86
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 69
+      },
+      {
+        "name": "Easy 2",
+        "damage": 73
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 64
+      },
+      {
+        "name": "Medium 1",
+        "damage": 74
+      }
+    ]
+  }
+}

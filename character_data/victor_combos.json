@@ -1,0 +1,39 @@
+{
+  "character": "Victor",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 87
+      },
+      {
+        "name": "Easy 2",
+        "damage": 91
+      },
+      {
+        "name": "Medium 1",
+        "damage": 97
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 78
+      },
+      {
+        "name": "Easy 2",
+        "damage": 82
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 72
+      },
+      {
+        "name": "Medium 1",
+        "damage": 82
+      }
+    ]
+  }
+}

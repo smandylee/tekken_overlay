@@ -1,0 +1,39 @@
+{
+  "character": "Panda",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 82
+      },
+      {
+        "name": "Easy 2",
+        "damage": 86
+      },
+      {
+        "name": "Medium 1",
+        "damage": 92
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 75
+      },
+      {
+        "name": "Easy 2",
+        "damage": 79
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 70
+      },
+      {
+        "name": "Medium 1",
+        "damage": 80
+      }
+    ]
+  }
+}

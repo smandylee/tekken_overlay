@@ -1,0 +1,39 @@
+{
+  "character": "Heihachi",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 84
+      },
+      {
+        "name": "Easy 2",
+        "damage": 88
+      },
+      {
+        "name": "Medium 1",
+        "damage": 94
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 77
+      },
+      {
+        "name": "Easy 2",
+        "damage": 81
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 71
+      },
+      {
+        "name": "Medium 1",
+        "damage": 81
+      }
+    ]
+  }
+}

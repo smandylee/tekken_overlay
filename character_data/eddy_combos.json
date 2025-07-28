@@ -1,0 +1,39 @@
+{
+  "character": "Eddy",
+  "starters": {
+    "어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 77
+      },
+      {
+        "name": "Easy 2",
+        "damage": 81
+      },
+      {
+        "name": "Medium 1",
+        "damage": 87
+      }
+    ],
+    "더블어퍼": [
+      {
+        "name": "Easy 1",
+        "damage": 70
+      },
+      {
+        "name": "Easy 2",
+        "damage": 74
+      }
+    ],
+    "헬스윙": [
+      {
+        "name": "Easy 1",
+        "damage": 65
+      },
+      {
+        "name": "Medium 1",
+        "damage": 75
+      }
+    ]
+  }
+}
