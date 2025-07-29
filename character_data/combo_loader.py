@@ -36,8 +36,8 @@ class ComboLoader:
                 print(f"잘못된 데이터 형식: {file_path}")
                 return False
             
-            # 캐릭터 이름 확인
-            if data['character'] != character_name:
+            # 캐릭터 이름 확인 (대소문자 무시)
+            if data['character'].lower() != character_name.lower():
                 print(f"캐릭터 이름 불일치: {data['character']} != {character_name}")
                 return False
             
